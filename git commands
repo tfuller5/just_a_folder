@@ -4,3 +4,15 @@ UPLOADING
 ZONE 1
 1. git add: ZONE 2
 2. git commit: ZONE 3
+3. git push origin main
+
+
+we never created a remote repository!
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+git remote add origin https://github.com/tfuller5/just_a_folder.git
+
