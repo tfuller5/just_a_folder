@@ -1,6 +1,8 @@
 repository is just a folder
 
 1. local repository (folder)
+    * lots of these (1 per person)
 2. remote repository (folder) currently doesn't exist
+    * only 1
 
 files become red when they are not added or commited
