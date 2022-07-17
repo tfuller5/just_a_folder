@@ -5,4 +5,9 @@ repository is just a folder
 2. remote repository (folder) currently doesn't exist
     * only 1
 
+a repository is made of branches
+
+branch: timeline: I am writing this, I just wrote that
+
+
 files become red when they are not added or commited
