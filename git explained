@@ -1,0 +1,6 @@
+repository is just a folder
+
+1. local repository (folder)
+2. remote repository (folder) currently doesn't exist
+
+files become red when they are not added or commited
